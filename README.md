@@ -1,13 +1,13 @@
 - 👋 Hi, I’m @yuquan-zuo
 
-- 👀 I’m interested in /n
+- 👀 I’m interested in  
       搬运有趣的项目
 
-- 💞️ I’m looking to collaborate on /n
-      yolov5基础上的AI目标检测、FPS自动瞄准 /n
+- 💞️ I’m looking to collaborate on  
+      yolov5基础上的AI目标检测、FPS自动瞄准  
       百度网盘远程下载
       
-- 📫 How to reach me /n
+- 📫 How to reach me  
       qdlxzyq@gmail.com
       
 <!---
